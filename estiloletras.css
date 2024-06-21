@@ -16,13 +16,13 @@ src: url(https://fisles.jcink.net/uploads2/swfonts/Game_of_Thrones.ttf)}
 }
 
 .border {
-    font-family: 'times';
+    font-family: calibri;
     -webkit-text-stroke: 1px #fff;
     text-align: center;
 }
 
 .ola {
-    font-family: 'times';
+    font-family: calibri;
     color: #fff;
     animation: ola 3s ease-in-out infinite;
     text-align: center;
