@@ -8,7 +8,7 @@ src: url(https://fisles.jcink.net/uploads2/swfonts/Game_of_Thrones.ttf)}
     padding: 0px;
 }
 
-.border .ola h2{
+h2 {
     font-size: 30px;
     position: absolute;
     color: #282828;
