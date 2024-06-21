@@ -1,29 +1,25 @@
 @font-face
 {font-family: got;
 src: url(https://fisles.jcink.net/uploads2/swfonts/Game_of_Thrones.ttf)}
-
-*
-{
-    margin: 0px;
-    padding: 0px;
-}
-
-h2 {
-    font-size: 30px;
-    position: absolute;
-    color: #282828;
-    text-transform: uppercase;
-}
-
 .border {
-    font-family: Game of Thrones;
-    -webkit-text-stroke: 1px #fff;
+    font-family: 'Game of Thrones';
+    font-size: 40px;
+    color: transparent;
+    text-shadow: -1px -1px white,
+    1px -1px 0 white,
+    1px 1px 0 white,
+    -1px 1px 0 white;
     text-align: center;
 }
 
 .ola {
-    font-family: Game of Thrones;
-    color: #fff;
+    font-family: 'Game of Thrones';
+    color: #000;
+    font-size: 40px;
+    text-shadow: -1px -1px white,
+    1px -1px 0 white,
+    1px 1px 0 white,
+    -1px 1px 0 white;
     animation: ola 3s ease-in-out infinite;
     text-align: center;
 }
