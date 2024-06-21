@@ -1,14 +1,3 @@
-body {
-    font-family: 'Game of Thrones', sans-serif;
-    background-color: transparent;
-    display: flex;
-    height: 200px;
-    width: 100%;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-}
-
 *
 {
     margin: 0px;
@@ -21,16 +10,20 @@ h2 {
 }
 
 .border {
+    font-family: 'Game of Thrones';
     color: transparent;
     text-shadow: -1px -1px white,
     1px -1px 0 white,
     1px 1px 0 white,
     -1px 1px 0 white;
+    text-align: center;
 }
 
 .ola {
+    font-family: 'Game of Thrones';
     color: #fff;
     animation: ola 3s ease-in-out infinite;
+    text-align: center;
 }
 
 @keyframes ola {
