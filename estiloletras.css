@@ -11,10 +11,7 @@ h2 {
 
 .border {
     font-family: 'Game of Thrones';
-    text-shadow: -1px -1px white,
-    1px -1px 0 white,
-    1px 1px 0 white,
-    -1px 1px 0 white;
+    -webkit-text-stroke: 1px #fff;
     text-align: center;
 }
 
