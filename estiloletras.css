@@ -17,6 +17,7 @@ src: url(https://fisles.jcink.net/uploads2/swfonts/Game_of_Thrones.ttf)}
 .texto h2 {
     font-size: 5rem;
     position: absolute;
+    color: red;
 }
 
 .border {
