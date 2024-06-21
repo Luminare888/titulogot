@@ -1,6 +1,13 @@
-@font-face
-{font-family: got;
-src: url(https://fisles.jcink.net/uploads2/swfonts/Game_of_Thrones.ttf)}
+body {
+    font-family: 'Game of Thrones', sans-serif;
+    background-color: transparent;
+    display: flex;
+    height: 200px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
 
 *
 {
@@ -8,33 +15,23 @@ src: url(https://fisles.jcink.net/uploads2/swfonts/Game_of_Thrones.ttf)}
     padding: 0px;
 }
 
-.texto {
-    width: 500px;
-    height: 200px;
-    background-color: transparent;
-}
-
-.texto h2 {
+h2 {
     font-size: 5rem;
     position: absolute;
-    color: red;
 }
 
 .border {
     font-family: 'Game of Thrones', sans-serif;
-    color: red;
+    color: transparent;
     text-shadow: -1px -1px white,
     1px -1px 0 white,
     1px 1px 0 white,
     -1px 1px 0 white;
-    text-align: center;
 }
 
 .ola {
-    font-family: 'Game of Thrones', sans-serif;
     color: #fff;
     animation: ola 3s ease-in-out infinite;
-    text-align: center;
 }
 
 @keyframes ola {
