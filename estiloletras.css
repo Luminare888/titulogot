@@ -10,13 +10,13 @@ h2 {
 }
 
 .border {
-    font-family: got;
+    font-family: 'Game of Thrones';
     -webkit-text-stroke: 1px #fff;
     text-align: center;
 }
 
 .ola {
-    font-family: got;
+    font-family: 'Game of Thrones';
     color: #fff;
     animation: ola 3s ease-in-out infinite;
     text-align: center;
