@@ -7,13 +7,14 @@
 h2 {
     font-size: 5rem;
     position: absolute;
+    color: #282828;
+    text-transform: uppercase;
 }
 
 .border {
     font-family: 'Game of Thrones';
     -webkit-text-stroke: 1px #fff;
     text-align: center;
-    color: #282828;
 }
 
 .ola {
